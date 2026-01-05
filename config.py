@@ -12,7 +12,7 @@ class Config:
     PHONE_NUMBER = os.getenv('PHONE_NUMBER', '+918859679570')
     
     # Session settings
-    SESSION_NAME = 'fam_bot_session'
+    SESSION_NAME = 'BQAAB_gAUiHWlCQHDCqygz2y4c7gurQ_AqFel4ittK061vuD2LAjBhcCIDC3HcNWGn1uJpuxaPVRwuqEVgbdCQ5GABPiS9451Gd7XfkvCwTjau4y75Ff7XG96kD9qK8bFH-mz0Bxmov-4fpYUS287MmDSaMLiPU3zZHXjL0cLDeax3CastbijaMcEF5CBKlf26kkYe1QIhhVJNeDEDHx0FFe3t3m_Of85x_7MOLqVtQ1ibwdre52FtwK7pNiB9UC4FL64crs_gKp8GC7FFQv1oh5D2pr2T7iiWYkiqqv-lMEXg4ybi6fTN-oNA6tC0ClJdYyRgP_hlODKN6Y_8oA7S3EPE_mwAAAAAH8sNKlAA'
     
     # Rate limiting
     REQUEST_TIMEOUT = 30
